@@ -10,7 +10,7 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=eliasmurcray&label=Profile%20Views&color=9&icon=0&pretty=true" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/eliasmurcray/">
      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliasmurcray" alt="LinkedIn">
   </a>
 </div>
