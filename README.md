@@ -4,7 +4,7 @@
 Welcome to my Github profile! Here you will find some cool projects and solutions for coding competitions or challenges.
 
 ## About Me
-I'm a second-year Computer Science student at California Baptist University. I love coding in TypeScript, especially with React. I interned at Amazon and got a taste of professional software development. I enjoy taking part in coding competitions and challenges. I'm passionate about problem-solving and always eager to learn more in tech.
+I'm a second-year Computer Science student at California Baptist University. Interned at Amazon Summer 2023, Google Summer 2024. Learning Vim and C currently. I main TypeScript.
 
 ## Goals
 - Work for Google as a software engineer
