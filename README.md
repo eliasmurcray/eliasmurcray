@@ -1,5 +1,3 @@
-<img hspace="16" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmurcray&langs_count=10" alt="Top Langs">
-
 <h1>Hi There, I'm Elias!</h1>
 <p>Welcome to my Github profile! Here you will find some cool projects and solutions for coding competitions or challenges.</p>
 
